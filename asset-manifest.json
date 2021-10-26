@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/novinMobl/static/css/main.f5893cc6.chunk.css",
-    "main.js": "/novinMobl/static/js/main.3e782eb2.chunk.js",
-    "main.js.map": "/novinMobl/static/js/main.3e782eb2.chunk.js.map",
+    "main.js": "/novinMobl/static/js/main.88b02fe4.chunk.js",
+    "main.js.map": "/novinMobl/static/js/main.88b02fe4.chunk.js.map",
     "runtime-main.js": "/novinMobl/static/js/runtime-main.1e7327a5.js",
     "runtime-main.js.map": "/novinMobl/static/js/runtime-main.1e7327a5.js.map",
     "static/css/2.8dd8f58f.chunk.css": "/novinMobl/static/css/2.8dd8f58f.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.8dd8f58f.chunk.css",
     "static/js/2.0f569245.chunk.js",
     "static/css/main.f5893cc6.chunk.css",
-    "static/js/main.3e782eb2.chunk.js"
+    "static/js/main.88b02fe4.chunk.js"
   ]
 }
